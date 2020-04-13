@@ -6,6 +6,10 @@
 @import 'jekyll-theme-slate';
 
 /* Your css rules goes after this */
-#forkme_banner {
-    background: #191c20;
+#forkme_banner, #project_title {
+		visibility: hidden;
+}
+
+#project_tagline {
+	font-size: 42px;
 }
