@@ -8,8 +8,8 @@ Un roman de science-fiction
 
 ## Sommaire
 
-[Chapitre 1](Chapitre_01.md)
-Chapitre 2 (à paraître prochainement)
+- [Chapitre 1](Chapitre_01.md)
+- Chapitre 2 (à paraître prochainement)
 
 ## À propos de l'auteur
 
