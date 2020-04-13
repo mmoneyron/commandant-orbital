@@ -7,9 +7,14 @@
 
 /* Your css rules goes after this */
 #forkme_banner, #project_title {
-		visibility: hidden;
+	visibility: hidden;
 }
 
 #project_tagline {
 	font-size: 42px;
+}
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
 }

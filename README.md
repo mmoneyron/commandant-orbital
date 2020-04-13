@@ -1,5 +1,3 @@
-# Commandant orbital
-
 Un roman de science-fiction 
 
 ## Remerciements
