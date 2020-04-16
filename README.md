@@ -13,3 +13,6 @@ Un roman de science-fiction
 
 Je m'appelle Mathieu Moneyron et je suis ingénieur en électronique et informatique dans le domaine des systèmes embarqués.
 Depuis toujours j'ai été grand amateur de films et romans de science-fiction et d'exploration spatiale.
+
+## License
+Ce roman est publié selon les termes de la license *🅭*-🅯-🄏-⊜ (CC-BY-NC-ND)
